@@ -6,11 +6,11 @@
 - Operadores
 - Estruturas condicionais
 - Estruturas de repetição
+- Arrays
 
 
 
 
 
 
-
-# Aulas feitas (31/286) 
+# Aulas feitas (35/286) 
