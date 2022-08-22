@@ -6,7 +6,7 @@
 - Operadores
 - Estruturas condicionais
 - Estruturas de repetição
-- Arrays
+- Arrays e Foreach
 
 
 
