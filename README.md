@@ -5,6 +5,7 @@
 - Tipos primitivos
 - Operadores
 - Estruturas condicionais
+- Estruturas de repetição
 
 
 
