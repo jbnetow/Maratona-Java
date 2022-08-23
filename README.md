@@ -14,6 +14,7 @@
 
  - #### Introdução 
    - Classes
+   - Métodos
 
 
 
@@ -21,4 +22,4 @@
 
 
 
-# Aulas feitas (40/286) 
+# Aulas feitas (47/286) 
