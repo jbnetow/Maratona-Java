@@ -2,11 +2,19 @@
 
 #### Oque já aprendi durante o curso: 
 
-- Tipos primitivos
-- Operadores
-- Estruturas condicionais
-- Estruturas de repetição
-- Arrays e Foreach
+### - Introdução
+  - Tipos primitivos
+  - Operadores
+  - Estruturas condicionais
+  - Estruturas de repetição
+  - Arrays e Foreach
+  - Arrays multidimensionais 
+
+### - Orientação a objetos
+
+ - #### Introdução 
+   - Classes
+
 
 
 
